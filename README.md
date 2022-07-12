@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Campos</h1>
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Matheusdev10/cf6a35789821e61cb47b9cc69e6cec43/raw/1a4ae7d370ea8e2e3d6b2d17759ce1a246480e24/githubcard.svg"/>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+
 
 - 🔭 I’m currently working on [Backoffice](https://github.com/fragata-corp/fragata-backoffice)
 
