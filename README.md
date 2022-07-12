@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ReactJs, Typescript, NextJs, Cypress**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Matheusdev10](https://github.com/Matheusdev10)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
