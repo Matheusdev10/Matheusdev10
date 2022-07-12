@@ -19,10 +19,10 @@
 
 
 <a href="https://linkedin.com/in/matheus-campos-495149201/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-matheus campos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/ma_campos10/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-matheus campos-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
 </p>
